@@ -1,5 +1,4 @@
 # Discord Go Nitro Mechaical Keyboard Firmware
-Discord Nitro QMK/VIA firmware
 
 Official Discord Go Nitro Mechanical Keyboard QMK/VIA firmware files.
 
